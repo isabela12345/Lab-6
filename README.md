@@ -8,3 +8,5 @@ Dans MySharedPreference, nous avons initialisé SharedPreferences dans le constr
 En utilisant la méthode save (), j'ai mis la chaîne donnée dans l'éditeur,
 Dans clearSharedPreferences (), nous supprimons toutes les valeurs.
 Dans SecondActivity, nous avons créé un objet SharedPreferences.
+
+J'ai travaillé avec Anca Vulc.
